@@ -1,0 +1,31 @@
+body{
+background-color: #F31817;
+
+
+}
+
+h1 {
+font-family: 'Courier New', Courier, monospace;
+color: white;
+font-style: italic;
+font-weight: lighter;
+}
+
+
+.image{
+box-shadow: 20px 10px lightyellow
+}
+
+h3{
+text-decoration: dotted;
+color: white;
+}
+
+
+p{
+color: white;
+}
+
+ol >li, ul>li{
+color: white;
+}
